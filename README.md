@@ -13,9 +13,7 @@ Here is the  repository of .xmind/.png/.markdown files
     ├── xxxx.xmind
 ```
 
-[1 Java SE foundaton.xmind](https://github.com/Dylan-CS/Java_learning/XMIND/blob/main/1%20Java%20SE%20foundaton.xmind)  
-
-![](https://github.com/Dylan-CS/Java_learning/blob/main/PNG/1.%20javaSE%E5%9F%BA%E7%A1%80.png)
+[1 Java SE foundation.xmind](https://github.com/Dylan-CS/Java_learning/XMIND/blob/main/1%20Java%20SE%20foundaton.xmind)  
 
 [2.1 JavaWeb基础_数据库_jdbc_Maven_Mybatis.xmind  ](https://github.com/Dylan-CS/Java_learning/XMIND/blob/main/2.1%20JavaWeb%E5%9F%BA%E7%A1%80_%E6%95%B0%E6%8D%AE%E5%BA%93_jdbc_Maven_Mybatis.xmind)
 
@@ -30,6 +28,18 @@ Here is the  repository of .xmind/.png/.markdown files
 [3.2 SSM框架_Maven进阶.xmind](https://github.com/Dylan-CS/Java_learning/XMIND/blob/main/3.2%20SSM%E6%A1%86%E6%9E%B6_Maven%E8%BF%9B%E9%98%B6.xmind)
 
 [3.3 SSM框架_SpringBoot_MybatisPlus.xmind](https://github.com/Dylan-CS/Java_learning/XMIND/blob/main/3.3%20SSM%E6%A1%86%E6%9E%B6_SpringBoot_MybatisPlus.xmind)
+
+
+
+###  Example of 1.JavaSE foundation
+
+if you like it, you can check others in the /png folder or just clone the repo
+
+```
+git clone https://github.com/Dylan-CS/Java_learning.git
+```
+
+![](https://github.com/Dylan-CS/Java_learning/blob/main/PNG/1.%20javaSE%E5%9F%BA%E7%A1%80.png)
 
 
 
