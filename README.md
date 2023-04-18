@@ -29,7 +29,17 @@ Here is the  repository of .xmind/.png/.markdown files
 
 [3.3 SSM框架_SpringBoot_MybatisPlus.xmind](https://github.com/Dylan-CS/Java_learning/XMIND/blob/main/3.3%20SSM%E6%A1%86%E6%9E%B6_SpringBoot_MybatisPlus.xmind)
 
+[4.1 瑞吉外卖_项目介绍&业务开发.xmind]
 
+[4.2 瑞吉外卖_Git.xmind]
+
+[4.3 瑞吉外卖_Linux.xmind]
+
+[4.4 瑞吉外卖_Redis.xmind]
+
+[4.5 瑞吉外卖_项目优化.xmind]
+
+[4.6 瑞吉外卖_API剖析.xmind]
 
 ###  Example of 1.JavaSE foundation
 
