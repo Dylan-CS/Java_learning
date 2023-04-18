@@ -29,17 +29,18 @@ Here is the  repository of .xmind/.png/.markdown files
 
 [3.3 SSM框架_SpringBoot_MybatisPlus.xmind](https://github.com/Dylan-CS/Java_learning/XMIND/blob/main/3.3%20SSM%E6%A1%86%E6%9E%B6_SpringBoot_MybatisPlus.xmind)
 
-[4.1 瑞吉外卖_项目介绍&业务开发.xmind]
+[4.1 瑞吉外卖_项目介绍&业务开发.xmind](https://github.com/Dylan-CS/Java_learning/blob/main/XMIND/4.1%20%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96_%E9%A1%B9%E7%9B%AE%E4%BB%8B%E7%BB%8D%26%E4%B8%9A%E5%8A%A1%E5%BC%80%E5%8F%91.xmind)
 
-[4.2 瑞吉外卖_Git.xmind]
+[4.2 瑞吉外卖_Git.xmind](https://github.com/Dylan-CS/Java_learning/blob/main/XMIND/4.2%20%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96_Git.xmind)
 
-[4.3 瑞吉外卖_Linux.xmind]
+[4.3 瑞吉外卖_Linux.xmind](https://github.com/Dylan-CS/Java_learning/blob/main/XMIND/4.3%20%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96_Linux.xmind)
 
-[4.4 瑞吉外卖_Redis.xmind]
+[4.4 瑞吉外卖_Redis.xmind](https://github.com/Dylan-CS/Java_learning/blob/main/XMIND/4.4%20%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96_Redis.xmind)
 
-[4.5 瑞吉外卖_项目优化.xmind]
+[4.5 瑞吉外卖_项目优化.xmind](https://github.com/Dylan-CS/Java_learning/blob/main/XMIND/4.5%20%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96_%E9%A1%B9%E7%9B%AE%E4%BC%98%E5%8C%96.xmind)
 
-[4.6 瑞吉外卖_API剖析.xmind]
+[4.6 瑞吉外卖_API剖析.xmind](https://github.com/Dylan-CS/Java_learning/blob/main/XMIND/4.6%20%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96_API%E5%89%96%E6%9E%90.xmind)
+
 
 ###  Example of 1.JavaSE foundation
 
