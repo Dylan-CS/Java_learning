@@ -13,7 +13,7 @@ Here is the  repository of .xmind/.png/.markdown files
     ├── xxxx.xmind
 ```
 
-xmind文件仓： https://github.com/Dylan-CS/Java_learning/tree/main/XMIND
+Xmind文件仓： https://github.com/Dylan-CS/Java_learning/tree/main/XMIND  
 [1 Java SE foundation.xmind](https://github.com/Dylan-CS/Java_learning/XMIND/blob/main/1%20Java%20SE%20foundaton.xmind)  
 
 [2.1 JavaWeb基础_数据库_jdbc_Maven_Mybatis.xmind  ](https://github.com/Dylan-CS/Java_learning/XMIND/blob/main/2.1%20JavaWeb%E5%9F%BA%E7%A1%80_%E6%95%B0%E6%8D%AE%E5%BA%93_jdbc_Maven_Mybatis.xmind)
