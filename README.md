@@ -13,6 +13,7 @@ Here is the  repository of .xmind/.png/.markdown files
     ├── xxxx.xmind
 ```
 
+xmind文件仓： https://github.com/Dylan-CS/Java_learning/tree/main/XMIND
 [1 Java SE foundation.xmind](https://github.com/Dylan-CS/Java_learning/XMIND/blob/main/1%20Java%20SE%20foundaton.xmind)  
 
 [2.1 JavaWeb基础_数据库_jdbc_Maven_Mybatis.xmind  ](https://github.com/Dylan-CS/Java_learning/XMIND/blob/main/2.1%20JavaWeb%E5%9F%BA%E7%A1%80_%E6%95%B0%E6%8D%AE%E5%BA%93_jdbc_Maven_Mybatis.xmind)
@@ -40,6 +41,27 @@ Here is the  repository of .xmind/.png/.markdown files
 [4.5 瑞吉外卖_项目优化.xmind](https://github.com/Dylan-CS/Java_learning/blob/main/XMIND/4.5%20%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96_%E9%A1%B9%E7%9B%AE%E4%BC%98%E5%8C%96.xmind)
 
 [4.6 瑞吉外卖_API剖析.xmind](https://github.com/Dylan-CS/Java_learning/blob/main/XMIND/4.6%20%E7%91%9E%E5%90%89%E5%A4%96%E5%8D%96_API%E5%89%96%E6%9E%90.xmind)
+
+5.1 微服务_Intro_Eureka_Ribbon_Nacos_Feign_Gateway
+
+5.2 微服务_Docker
+
+5.3 微服务_MQ
+
+5.4 微服务_ElasticSearch分布式搜索
+
+5.5 微服务_ 高级篇_微服务保护
+
+5.6 微服务_ 高级篇_分布式事务
+
+5.7 微服务_ 高级篇_分布式缓存
+
+5.8 微服务_ 高级篇_多级缓存
+
+5.9 微服务_ 高级篇_可靠消息服务
+
+5.99 微服务_ 面试篇_ 微服务_redis_mq
+
 
 
 ###  Example of 1.JavaSE foundation
